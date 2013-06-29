@@ -1,0 +1,9 @@
+body {
+	background-color:#ddd;
+	color:#36c;
+}
+
+h1 { border:solid 1px; }
+
+
+#story { color:#333; border:dotted 1px; }
